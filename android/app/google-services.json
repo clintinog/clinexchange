@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "370981434067",
+    "project_id": "clinexchange",
+    "storage_bucket": "clinexchange.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370981434067:android:b41268db75d3393c381a26",
+        "android_client_info": {
+          "package_name": "com.clinton.clinexchange"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN9ZwOugeLcX-IWLDCzh7UjHMbLW-w9BU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
